@@ -1,0 +1,6 @@
+comparison,seed_diff_mean±sd,seeds_positive,SINGLE_diff,SINGLE_CI95,SINGLE_CI_bonf(99%),SINGLE_excl0_unadj,SINGLE_excl0_bonf,ENSEMBLE_diff,ENSEMBLE_CI95,ENSEMBLE_CI_bonf(99%),ENSEMBLE_excl0_bonf
+M1 vs M0: early SE gate,0.0002 ± 0.0016,3/5,+0.0002,"[-0.0011, +0.0014]","[-0.0014, +0.0018]",False,False,-0.0001,"[-0.0015, +0.0011]","[-0.0019, +0.0015]",False
+M2 vs M0: separating the leads,0.0000 ± 0.0023,3/5,+0.0000,"[-0.0030, +0.0032]","[-0.0040, +0.0042]",False,False,-0.0001,"[-0.0033, +0.0030]","[-0.0041, +0.0040]",False
+M3 vs M2: shared SE gate,0.0011 ± 0.0013,4/5,+0.0011,"[-0.0001, +0.0021]","[-0.0004, +0.0024]",False,False,+0.0010,"[-0.0001, +0.0020]","[-0.0005, +0.0024]",False
+M4 vs M3: class-specific gates and heads,-0.0034 ± 0.0036,0/5,-0.0034,"[-0.0049, -0.0018]","[-0.0053, -0.0014]",True,True,-0.0021,"[-0.0036, -0.0005]","[-0.0041, -0.0001]",True
+M4 vs M2: total effect of class-specific gating,-0.0024 ± 0.0027,1/5,-0.0024,"[-0.0039, -0.0008]","[-0.0045, -0.0003]",True,True,-0.0011,"[-0.0027, +0.0005]","[-0.0033, +0.0010]",False

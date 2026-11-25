@@ -1,0 +1,7 @@
+model,mean_between_class_spearman
+cnn,0.242
+cnn_mhsa,0.233
+cnn_lstm,0.206
+cnn_lstm_mhsa,0.259
+cnn_bilstm,0.310
+cnn_bilstm_mhsa,0.131

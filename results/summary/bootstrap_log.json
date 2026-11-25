@@ -1,0 +1,7 @@
+{
+ "n_bootstrap": 5000,
+ "discarded_resamples": 0,
+ "n_test_patients": 1877,
+ "n_test_records": 2158,
+ "all_prespecified_contrasts_computed": true
+}

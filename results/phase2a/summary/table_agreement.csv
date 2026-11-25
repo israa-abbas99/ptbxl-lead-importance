@@ -1,0 +1,7 @@
+model,zero_vs_IG_spearman,zero_vs_permutation_spearman,IG_completeness_err
+cnn,0.388 ± 0.040,0.786 ± 0.067,0.004
+cnn_mhsa,0.273 ± 0.196,0.766 ± 0.097,0.005
+cnn_lstm,0.309 ± 0.105,0.760 ± 0.113,0.022
+cnn_lstm_mhsa,0.354 ± 0.162,0.744 ± 0.129,0.005
+cnn_bilstm,0.343 ± 0.109,0.794 ± 0.085,0.049
+cnn_bilstm_mhsa,0.260 ± 0.202,0.799 ± 0.079,0.007

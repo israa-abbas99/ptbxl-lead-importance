@@ -1,0 +1,4 @@
+model,stability_class_avg,null95,stab_NORM,stab_MI,stab_STTC,stab_CD,stab_HYP
+m1_early_se,-0.050 (pairs -0.566 to 0.566),0.176,-0.050,-0.050,-0.050,-0.050,-0.050
+m3_cs_se,0.350 (pairs 0.070 to 0.776),0.176,0.350,0.350,0.350,0.350,0.350
+m4_mh_se,0.339 (pairs 0.014 to 0.636),0.176,-0.071,0.652,0.551,0.611,0.655

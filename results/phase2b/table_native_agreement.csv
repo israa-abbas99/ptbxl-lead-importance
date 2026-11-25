@@ -1,0 +1,4 @@
+model,native_vs_zeroout_spearman,native_vs_IG_spearman,seeds_positive_zeroout
+m1_early_se,0.346 ± 0.300,0.418 ± 0.344,5/5
+m3_cs_se,0.116 ± 0.127,0.295 ± 0.200,4/5
+m4_mh_se,0.599 ± 0.157,0.622 ± 0.109,5/5

@@ -1,0 +1,4 @@
+model,mean_weight,min_weight,max_weight,"range_across_leads(max-min, class-avg, mean over seeds)"
+m1_early_se,0.483,0.283,0.765,0.320
+m3_cs_se,0.983,0.777,1.000,0.087
+m4_mh_se,0.706,0.001,1.000,0.341

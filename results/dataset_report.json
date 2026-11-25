@@ -1,0 +1,43 @@
+{
+ "n_records_total": 21799,
+ "n_excluded_no_superclass": 411,
+ "n_records_used": 21388,
+ "splits": {
+  "train": {
+   "records": 17084,
+   "patients": 14823,
+   "positives": {
+    "NORM": 7596,
+    "MI": 4379,
+    "STTC": 4186,
+    "CD": 3907,
+    "HYP": 2119
+   },
+   "mean_labels_per_record": 1.2987005710601807
+  },
+  "val": {
+   "records": 2146,
+   "patients": 1917,
+   "positives": {
+    "NORM": 955,
+    "MI": 540,
+    "STTC": 528,
+    "CD": 495,
+    "HYP": 268
+   },
+   "mean_labels_per_record": 1.2982292175292969
+  },
+  "test": {
+   "records": 2158,
+   "patients": 1877,
+   "positives": {
+    "NORM": 963,
+    "MI": 550,
+    "STTC": 521,
+    "CD": 496,
+    "HYP": 262
+   },
+   "mean_labels_per_record": 1.293790578842163
+  }
+ }
+}

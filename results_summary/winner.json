@@ -1,0 +1,28 @@
+{
+ "winner": "cnn_lstm",
+ "rule": "highest mean validation (fold 9) macro-AUROC over seeds",
+ "val_macro_auroc_means": {
+  "cnn": 0.929670175965301,
+  "cnn_mhsa": 0.928988021764504,
+  "cnn_lstm": 0.9329471147786897,
+  "cnn_lstm_mhsa": 0.9309915187487467,
+  "cnn_bilstm": 0.9329415562934804,
+  "cnn_bilstm_mhsa": 0.9295139961641501
+ },
+ "models_considered": [
+  "cnn",
+  "cnn_mhsa",
+  "cnn_lstm",
+  "cnn_lstm_mhsa",
+  "cnn_bilstm",
+  "cnn_bilstm_mhsa"
+ ],
+ "seeds_used": [
+  11,
+  22,
+  33,
+  44,
+  55
+ ],
+ "created_utc": "2026-10-19T07:14:36+00:00"
+}

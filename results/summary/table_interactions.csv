@@ -1,0 +1,4 @@
+contrast,type,seed_diff_mean±sd,seeds_positive,SINGLE_diff,SINGLE_CI95,SINGLE_CI_bonf(98.33%),SINGLE_excl0_unadj,SINGLE_excl0_bonf,ENSEMBLE_diff,ENSEMBLE_CI95,ENSEMBLE_CI_bonf(98.33%),ENSEMBLE_excl0_unadj,ENSEMBLE_excl0_bonf
+MHSA effect: CNN+LSTM minus CNN,interaction,0.0006 ± 0.0030,3/5,+0.0006,"[-0.0021, +0.0032]","[-0.0027, +0.0038]",False,False,-0.0006,"[-0.0033, +0.0020]","[-0.0038, +0.0027]",False,False
+MHSA effect: CNN+BiLSTM minus CNN,interaction,-0.0014 ± 0.0037,1/5,-0.0014,"[-0.0040, +0.0012]","[-0.0046, +0.0018]",False,False,-0.0030,"[-0.0056, -0.0004]","[-0.0061, +0.0002]",True,False
+MHSA effect: CNN+BiLSTM minus CNN+LSTM,interaction,-0.0020 ± 0.0040,1/5,-0.0020,"[-0.0038, -0.0003]","[-0.0042, +0.0002]",True,False,-0.0024,"[-0.0044, -0.0005]","[-0.0048, -0.0001]",True,True

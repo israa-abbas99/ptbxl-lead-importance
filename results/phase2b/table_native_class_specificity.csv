@@ -1,0 +1,4 @@
+model,cross_class_SD,cross_seed_SD,ratio_class_over_seed
+m1_early_se,0.0000,0.1037,0.00
+m3_cs_se,0.0000,0.0222,0.00
+m4_mh_se,0.3809,0.1806,2.11

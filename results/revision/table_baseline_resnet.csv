@@ -1,0 +1,3 @@
+model,test macro-AUROC,P1 stability [95% CI],random 95th percentile,P2 removal vs IG (128 steps),k=3 removal-ranked,k=3 val-IG-ranked,k=3 random (10),k=3 seeds removal < random,k=6 removal-ranked,k=6 val-IG-ranked,k=6 random (10),k=6 seeds removal < random
+cnn_lstm,0.9272 ± 0.0013,"0.694 [0.551, 0.798]",0.176,0.309 ± 0.108,0.8446 ± 0.0202,0.8694 ± 0.0215,0.8936 ± 0.0060,5/5,0.7465 ± 0.0325,0.7218 ± 0.0308,0.7926 ± 0.0177,5/5
+resnet1d_wang,0.9302 ± 0.0014,"0.773 [0.632, 0.896]",0.176,0.343 ± 0.093,0.8512 ± 0.0039,0.8672 ± 0.0096,0.8975 ± 0.0011,5/5,0.7780 ± 0.0224,0.7559 ± 0.0301,0.7983 ± 0.0075,4/5

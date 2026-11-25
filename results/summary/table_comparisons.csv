@@ -1,0 +1,8 @@
+contrast,type,seed_diff_mean±sd,seeds_positive,SINGLE_diff,SINGLE_CI95,SINGLE_CI_bonf(99.29%),SINGLE_excl0_unadj,SINGLE_excl0_bonf,ENSEMBLE_diff,ENSEMBLE_CI95,ENSEMBLE_CI_bonf(99.29%),ENSEMBLE_excl0_unadj,ENSEMBLE_excl0_bonf
+MHSA effect on CNN,ablation,-0.0025 ± 0.0023,0/5,-0.0025,"[-0.0051, +0.0001]","[-0.0059, +0.0010]",False,False,-0.0001,"[-0.0027, +0.0025]","[-0.0036, +0.0032]",False,False
+MHSA effect on CNN+LSTM,ablation,-0.0019 ± 0.0025,2/5,-0.0019,"[-0.0034, -0.0004]","[-0.0040, +0.0002]",True,False,-0.0007,"[-0.0023, +0.0008]","[-0.0029, +0.0015]",False,False
+MHSA effect on CNN+BiLSTM,ablation,-0.0039 ± 0.0022,0/5,-0.0039,"[-0.0055, -0.0023]","[-0.0063, -0.0016]",True,True,-0.0031,"[-0.0047, -0.0014]","[-0.0054, -0.0008]",True,True
+LSTM effect (no MHSA),ablation,0.0038 ± 0.0023,5/5,+0.0038,"[+0.0013, +0.0063]","[+0.0004, +0.0073]",True,True,+0.0046,"[+0.0022, +0.0071]","[+0.0013, +0.0081]",True,True
+LSTM effect (with MHSA),ablation,0.0044 ± 0.0018,5/5,+0.0044,"[+0.0025, +0.0064]","[+0.0017, +0.0072]",True,True,+0.0040,"[+0.0018, +0.0062]","[+0.0011, +0.0070]",True,True
+BiLSTM vs LSTM (no MHSA),controlled comparison,0.0003 ± 0.0025,2/5,+0.0003,"[-0.0009, +0.0014]","[-0.0013, +0.0019]",False,False,+0.0007,"[-0.0005, +0.0019]","[-0.0010, +0.0024]",False,False
+BiLSTM vs LSTM (with MHSA),controlled comparison,-0.0017 ± 0.0028,2/5,-0.0017,"[-0.0031, -0.0003]","[-0.0036, +0.0002]",True,False,-0.0017,"[-0.0032, -0.0002]","[-0.0037, +0.0004]",True,False

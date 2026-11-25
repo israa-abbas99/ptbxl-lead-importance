@@ -1,0 +1,7 @@
+{
+ "winner": "cnn_lstm",
+ "n_bootstrap": 1000,
+ "discarded_resamples": 0,
+ "null95_mean_pairwise_spearman": 0.17625874125874139,
+ "ig_subset_size": 500
+}
