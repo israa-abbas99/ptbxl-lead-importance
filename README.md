@@ -4,7 +4,7 @@ Code, trained checkpoints and per-run outputs for the manuscript
 
 > I. D. Abbas and A. N. Hashim, "Do Built-In Lead Weights Explain Multi-Label 12-Lead ECG Classifiers? A Pre-Specified Multi-Seed Study on PTB-XL", *International Journal of Intelligent Engineering and Systems* (under review, manuscript 20267841).
 
-Everything needed to rerun the experiments is here: the dated protocols, the data pipeline, the model definitions, the training and analysis scripts, the 55 trained networks, and the files every table and figure was built from.
+Everything needed to rerun the experiments is here: the versioned protocols, the data pipeline, the model definitions, the training and analysis scripts, the 55 trained networks, and the files every table and figure was built from.
 
 ---
 
